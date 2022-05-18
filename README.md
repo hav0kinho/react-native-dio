@@ -35,3 +35,5 @@
   - Configurações com StyleSheet
   - Alterar XML do Manifest Android (Para conseguir abrir links)
   
+  # Considerações Finais
+  Já tinha e estou estudando sobre Web e ReactJS, e posso dizer que o React Native não é tão diferente do ReactJS como dizem. Me diverti bastante fazendo esse aplicativo, até pensei se daria para fazer um jogo utilizando esse Framework do tanto de coisa que ele oferece, mas acho que Softwares como Unity conseguem realizar isso bem melhor. Para quem estiver lendo isso e estiver pensando em estudar React Native, saiba de uma coisa: Até o momento dos meus estudos, a maior diferença e com relação a estrutura inicial do projeto <View> <Text> <SafeAreaView> ("Componentes" nativos) e como o estilo é feito (Utilizando um objeto StyleSheet). Fora isso, é totalmente igual a desenvolver com ReactJS 
